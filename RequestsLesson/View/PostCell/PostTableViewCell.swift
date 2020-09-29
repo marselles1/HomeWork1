@@ -2,8 +2,7 @@
 //  PostTableViewCell.swift
 //  RequestsLesson
 //
-//  Created by Евгений on 29.12.2019.
-//  Copyright © 2019 Ildar Zalyalov. All rights reserved.
+//  Created by marsel on 28.08.2020.
 //
 
 import UIKit
